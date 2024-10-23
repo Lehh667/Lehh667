@@ -2,9 +2,9 @@
 
 Meu nome é **Letícia**
 
-*Estou cursando a 1° série do ensino médio, na escola estudal João Jorge Marmorato
-*Gosto de ler, meus livros preferidos são de fantasia e romance
-*Possuo grande apresso por aprender
+* Estou cursando a 1° série do ensino médio, na escola estudal João Jorge Marmorato
+* Gosto de ler, meus livros preferidos são de fantasia e romance
+* Possuo grande apresso por aprender
 
 ## Meu contato
 
