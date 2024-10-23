@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu pefil👋
+
+Meu nome é **Letícia**
+
+*Estou cursando a 1° série do ensino médio, na escola estudal João Jorge Marmorato
+*Gosto de ler, meus livros preferidos são de fantasia e romance
+*Possuo grande apresso por aprender
+
+## Meu contato
+
+leticiamaria.comercial1507@gmail.com
 
 <!--
 **Lehh667/Lehh667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
